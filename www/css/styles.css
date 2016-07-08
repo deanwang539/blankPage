@@ -41,3 +41,32 @@ body{
 .center{
   text-align: center;
 }
+
+.card{
+  padding: 0.3em 0 0.3em 0;
+  background-color: #f2f2f2;
+}
+
+.profile-brief{
+  margin: 1.5em 0 1.5em 0;
+}
+
+.profile-picture{
+  display: block;
+  margin: 0 auto;
+}
+
+.field-container{
+  padding: 0.5em 1em;
+  margin: 0 auto;
+  width: 50%;
+}
+
+.field-container p{
+  margin: 0;
+}
+
+.video-brief{
+  margin: 1em;
+  text-align: left;
+}
